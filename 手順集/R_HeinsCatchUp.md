@@ -2,6 +2,7 @@ Tag:[
 #InternationalCoinProduction
 #International3Fly
 #QuickSilver
+#GimmickCSB
 ]
 
 ## ルーティン評価
