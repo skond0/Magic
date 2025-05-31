@@ -3,6 +3,7 @@
 - [[AirToss]]
 - [[HeinsCatchUp]]
 - [[Sick2]]
-- 
+- [[CoinsAkiras]]
+- [[Sick]]
 # 本
 - [[CoinMagicEncyclopedia]]
